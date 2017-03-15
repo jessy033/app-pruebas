@@ -1,0 +1,21 @@
+{
+  "name": "app-pruebas",
+  "description": "Aplicacion de pruebas",
+  "main": "index.js",
+  "license": "ISC",
+  "keywords": [
+    "pruebas"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-ui-router": "^0.4.2"
+  }
+}

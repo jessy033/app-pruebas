@@ -1,0 +1,14 @@
+{
+  "name": "app-pruebas",
+  "version": "1.0.0",
+  "description": "Aplicacion de pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pruebas"
+  ],
+  "author": "",
+  "license": "ISC"
+}
